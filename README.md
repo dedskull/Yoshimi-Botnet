@@ -1,4 +1,4 @@
 Yoshimi-Botnet
 ==============
 
-Open source Android botnet
+Open source Android botnet project
